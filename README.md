@@ -108,23 +108,6 @@ This is Task list
 
 
 ```
-# CODE
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-```
-
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-
-
-```
 # LINKS
 [google.com](https://www.google.com)
 
